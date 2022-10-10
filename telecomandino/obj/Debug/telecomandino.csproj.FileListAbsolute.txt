@@ -1,0 +1,11 @@
+C:\Users\cutinella.19316\source\repos\telecomandino\telecomandino\bin\Debug\telecomandino.exe.config
+C:\Users\cutinella.19316\source\repos\telecomandino\telecomandino\bin\Debug\telecomandino.exe
+C:\Users\cutinella.19316\source\repos\telecomandino\telecomandino\bin\Debug\telecomandino.pdb
+C:\Users\cutinella.19316\source\repos\telecomandino\telecomandino\obj\Debug\telecomandino.csproj.AssemblyReference.cache
+C:\Users\cutinella.19316\source\repos\telecomandino\telecomandino\obj\Debug\telecomandino.csproj.SuggestedBindingRedirects.cache
+C:\Users\cutinella.19316\source\repos\telecomandino\telecomandino\obj\Debug\telecomandino.Form1.resources
+C:\Users\cutinella.19316\source\repos\telecomandino\telecomandino\obj\Debug\telecomandino.Properties.Resources.resources
+C:\Users\cutinella.19316\source\repos\telecomandino\telecomandino\obj\Debug\telecomandino.csproj.GenerateResource.cache
+C:\Users\cutinella.19316\source\repos\telecomandino\telecomandino\obj\Debug\telecomandino.csproj.CoreCompileInputs.cache
+C:\Users\cutinella.19316\source\repos\telecomandino\telecomandino\obj\Debug\telecomandino.exe
+C:\Users\cutinella.19316\source\repos\telecomandino\telecomandino\obj\Debug\telecomandino.pdb
